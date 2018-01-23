@@ -35,3 +35,7 @@ hr {
 .title-space {
   padding-right: 30px;
 }
+
+.form-actions {
+  text-align: center;
+}
