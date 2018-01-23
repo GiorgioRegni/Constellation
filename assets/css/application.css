@@ -31,3 +31,7 @@ hr {
   float: none;
   margin: 0 auto;
 }
+
+.title-space {
+  padding-right: 30px;
+}
